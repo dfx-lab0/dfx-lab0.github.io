@@ -10,7 +10,7 @@ role: Senior Lecturer
 
 organizations:
 - name: Deep Fusion eXploration Laboratory
-  url: "https://DFX-Lab.github.io/"
+  url: "https://dfx-lab0.github.io/"
 - name: Tongling University
   url: "https://www.tlu.edu.cn/"
 
@@ -19,7 +19,7 @@ organizations:
 
 
 email: "feixiangdu@tlu.edu.cn"
-website_url: https://feixiangdu.github.io/  # 可以配置个人主页, 如果有的话
+website_url: https://scholar.google.com.hk/citations?user=RIbJS0kAAAAJ&hl=zh-CN  # 可以配置个人主页, 如果有的话
 
 user_groups:
 - Teachers
