@@ -20,7 +20,6 @@ defaults:
     shell: bash
 
 jobs:
-
   build:
     runs-on: ubuntu-latest
 
