@@ -119,6 +119,10 @@
   </url>
   
   <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
     <loc>/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</loc>
   </url>
   
@@ -132,10 +136,6 @@
   
   <url>
     <loc>/authors/hadi-nabipour-afrouzi/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
   </url>
   
   <url>
