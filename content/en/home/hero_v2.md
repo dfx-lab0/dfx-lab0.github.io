@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "深度融合智能探索实验室"
+title = "智瞳微视人工智能实验室"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "logo_v1.png"
@@ -61,3 +61,8 @@ hero_media = "logo_v1.png"
   icon_pack = "fas"
 +++
 
+智瞳微视人工智能实验室者，乃一研修群体也。以精研前沿芯片技艺与人工智能算法为要务，致力于构筑精准之机器视觉系统。所谓“智瞳”，寓意智能洞察；“微视”，象征细致观微，二者合一，蕴含“以智能之瞳，观世界之微”的宏愿。
+
+夫观万象于毫厘，察乾坤于方寸，此乃吾等夙志。实验室志在赋予机器以多模态学习之能，使其能“听之以耳，观之以目，思之以心”，从而达成理解世界、服务人群之道。
+
+若君对斯室有意，愿与之同道，可循下方途径，探其奥妙。 
