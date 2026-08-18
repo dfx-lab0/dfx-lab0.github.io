@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | IPMAI-Lab</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2026 IPMAI-Lab</copyright>
+    <image>
+      <url>/img/logo-h-mix.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>A dual-branch model for diagnosis of Parkinson’s disease based on the independent and joint features of the left and right gait</title>
+      <link>/publication/a-dual-branch-model-for-diagnosis-of-parkinsons-disease-based-on-the-independent-and-joint-features-of-the-left-and-right-gait/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/a-dual-branch-model-for-diagnosis-of-parkinsons-disease-based-on-the-independent-and-joint-features-of-the-left-and-right-gait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DoubleAANet: Auxiliary Attention and Area Adaptive Loss for Robust Polyp Segmentation</title>
+      <link>/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECMNet: Lightweight Semantic Segmentation with Efficient CNN-Mamba Network</title>
+      <link>/publication/ecmnet_lightweight-semantic-segmentation-with-efficient-cnn-mamba-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/ecmnet_lightweight-semantic-segmentation-with-efficient-cnn-mamba-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PolypDiff: Controlled Diffusion Model for Polyp Segmentation and Image Generation</title>
+      <link>/publication/polypdiff-controlled-diffusion-model-for-polyp-segmentation-and-image-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/polypdiff-controlled-diffusion-model-for-polyp-segmentation-and-image-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UMS-DET: A Frequency-Enhanced Transformer-Based UAV Multi-Scale Small Object Detector for Aerial Imagery</title>
+      <link>/publication/ums-det_a-frequency-enhanced-transformer-based-uav-multi-scale-small-object-detector-for-aerial-imagery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/ums-det_a-frequency-enhanced-transformer-based-uav-multi-scale-small-object-detector-for-aerial-imagery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

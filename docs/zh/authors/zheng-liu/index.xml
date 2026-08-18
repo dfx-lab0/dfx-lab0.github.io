@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zheng Liu | 智瞳微视人工智能实验室</title>
+    <link>/zh/authors/zheng-liu/</link>
+      <atom:link href="/zh/authors/zheng-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zheng Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>copyright © 2026 IPMAI-Lab</copyright>
+    <image>
+      <url>/img/logo-h-mix.png</url>
+      <title>Zheng Liu</title>
+      <link>/zh/authors/zheng-liu/</link>
+    </image>
+    
+    <item>
+      <title>A dual-branch model for diagnosis of Parkinson’s disease based on the independent and joint features of the left and right gait</title>
+      <link>/zh/publication/a-dual-branch-model-for-diagnosis-of-parkinsons-disease-based-on-the-independent-and-joint-features-of-the-left-and-right-gait/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/a-dual-branch-model-for-diagnosis-of-parkinsons-disease-based-on-the-independent-and-joint-features-of-the-left-and-right-gait/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

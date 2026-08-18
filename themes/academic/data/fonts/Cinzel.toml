@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Cinzel"
+
+# Google Fonts
+google_fonts = "Cinzel:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "Cinzel"
+body_font    = "Roboto"
+nav_font     = "Cinzel"
+mono_font    = "Roboto Mono"

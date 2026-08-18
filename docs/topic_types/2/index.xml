@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | IPMAI-Lab</title>
+    <link>/topic_types/2/</link>
+      <atom:link href="/topic_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2026 IPMAI-Lab</copyright>
+    <image>
+      <url>/img/logo-h-mix.png</url>
+      <title>2</title>
+      <link>/topic_types/2/</link>
+    </image>
+    
+    <item>
+      <title>UMS-DET: A Frequency-Enhanced Transformer-Based UAV Multi-Scale Small Object Detector for Aerial Imagery</title>
+      <link>/publication/ums-det_a-frequency-enhanced-transformer-based-uav-multi-scale-small-object-detector-for-aerial-imagery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/ums-det_a-frequency-enhanced-transformer-based-uav-multi-scale-small-object-detector-for-aerial-imagery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

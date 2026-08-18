@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hadi Nabipour Afrouzi | IPMAI-Lab</title>
+    <link>/authors/hadi-nabipour-afrouzi/</link>
+      <atom:link href="/authors/hadi-nabipour-afrouzi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hadi Nabipour Afrouzi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2026 IPMAI-Lab</copyright>
+    <image>
+      <url>/img/logo-h-mix.png</url>
+      <title>Hadi Nabipour Afrouzi</title>
+      <link>/authors/hadi-nabipour-afrouzi/</link>
+    </image>
+    
+    <item>
+      <title>DoubleAANet: Auxiliary Attention and Area Adaptive Loss for Robust Polyp Segmentation</title>
+      <link>/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PolypDiff: Controlled Diffusion Model for Polyp Segmentation and Image Generation</title>
+      <link>/publication/polypdiff-controlled-diffusion-model-for-polyp-segmentation-and-image-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/polypdiff-controlled-diffusion-model-for-polyp-segmentation-and-image-generation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>智瞳微视人工智能实验室</title>
+    <link>/zh/</link>
+      <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
+    <description>智瞳微视人工智能实验室</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>copyright © 2026 IPMAI-Lab</copyright>
+    <image>
+      <url>/img/logo-h-mix.png</url>
+      <title>智瞳微视人工智能实验室</title>
+      <link>/zh/</link>
+    </image>
+    
+    <item>
+      <title>A dual-branch model for diagnosis of Parkinson’s disease based on the independent and joint features of the left and right gait</title>
+      <link>/zh/publication/a-dual-branch-model-for-diagnosis-of-parkinsons-disease-based-on-the-independent-and-joint-features-of-the-left-and-right-gait/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/a-dual-branch-model-for-diagnosis-of-parkinsons-disease-based-on-the-independent-and-joint-features-of-the-left-and-right-gait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DoubleAANet: Auxiliary Attention and Area Adaptive Loss for Robust Polyp Segmentation</title>
+      <link>/zh/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECMNet: Lightweight Semantic Segmentation with Efficient CNN-Mamba Network</title>
+      <link>/zh/publication/ecmnet_lightweight-semantic-segmentation-with-efficient-cnn-mamba-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/ecmnet_lightweight-semantic-segmentation-with-efficient-cnn-mamba-network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
