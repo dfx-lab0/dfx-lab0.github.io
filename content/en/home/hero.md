@@ -55,7 +55,7 @@ hero_media = "logo-v-mix.png"
   
 
 [[cta]]
-  url = "https://github.com/DFX-Lab"
+  url = "https://github.com/dfx-lab0"
   icon_pack = "fab"
   icon = "github"
 
